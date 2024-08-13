@@ -34,3 +34,11 @@ set completion-group-bg "#292E42"
 set completion-group-fg "#A8B0D4"
 set completion-highlight-bg "#9CCC6C"
 set completion-highlight-fg "#15161E"
+
+set notification-bg "#9CCC6C"
+set notification-fg "#15161E"
+
+set notification-error-fg "#15161E"
+
+set recolor-lightcolor "#1C1C1C"
+set recolor-keephue true
