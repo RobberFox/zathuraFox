@@ -26,17 +26,17 @@ set zoom-center true
 
 set font "JetBrains Mono 10"
 set default-bg "#1D1D28"
-set default-fg "#A8B0D4"
+set default-fg "#C0CAF5"
 
 set statusbar-bg "#292E42"
-set statusbar-fg "#A8B0D4"
+set statusbar-fg "#C0CAF5"
 set inputbar-bg "#1D1D28"
-set inputbar-fg "#A8B0D4"
+set inputbar-fg "#C0CAF5"
 
 set completion-bg "#1D1D28"
-set completion-fg "#A8B0D4"
+set completion-fg "#C0CAF5"
 set completion-group-bg "#292E42"
-set completion-group-fg "#A8B0D4"
+set completion-group-fg "#C0CAF5"
 set completion-highlight-bg "#9CCC6C"
 set completion-highlight-fg "#15161E"
 
