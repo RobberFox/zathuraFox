@@ -18,6 +18,10 @@ map <C-7> feedkeys ":blist 7 <Return>"
 map <C-8> feedkeys ":blist 8 <Return>"
 map <C-9> feedkeys ":blist 9 <Return>"
 
+map - zoom out
+map = zoom in
+map 0 zoom reset
+
 set selection-clipboard clipboard
 
 set search-hadjust false
