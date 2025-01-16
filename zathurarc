@@ -20,7 +20,7 @@ map <C-9> feedkeys ":blist 9 <Return>"
 
 set selection-clipboard clipboard
 
-set search-hadjust false
+#set search-hadjust false
 set vertical-center true
 set zoom-center true
 
